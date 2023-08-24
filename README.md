@@ -1,6 +1,6 @@
 # Natural Language Processing Specialization by DeepLearning.AI
 
-This repository contains my personal notes, assignments, and projects for the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera. The specialization covers a range of topics in Natural Language Processing, from the fundamentals to advanced techniques.
+This repository contains my personal notes for the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera. The specialization covers a range of topics in Natural Language Processing, from the fundamentals to advanced techniques.
 
 ## Specialization Overview
 
