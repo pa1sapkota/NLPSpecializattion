@@ -13,7 +13,7 @@ The Natural Language Processing Specialization is a comprehensive learning journ
 
 ## Notes and Resources
 
-I've compiled detailed notes, summaries, and additional resources for each course in the [Notes](https://lead-zebra-2f9.notion.site/Natural-Language-Specialization-f5a3f75e9f2e4285a6e25271e693a12c?pvs=4 directory. These notes are meant to help you review the key concepts and important information from the lectures and readings.
+I've compiled detailed notes, summaries, and additional resources for each course in the [Notes](https://pineapple-wok-535.notion.site/Natural-Language-Processing-bf179e34ec294c3592962b3b9b7721fb?pvs=4 directory. These notes are meant to help you review the key concepts and important information from the lectures and readings.
 
 You can also access the official course materials, including lecture videos, assignments, and quizzes, on the [Coursera platform](https://www.coursera.org/specializations/natural-language-processing/).
 
